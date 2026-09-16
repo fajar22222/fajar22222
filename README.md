@@ -1,14 +1,21 @@
-<!-- <h3 align="center">A passionate junior developer from Indonesian</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p> -->
-<div align="center">
+<!-- <div align="center">
   <h1>Hi there! 👋 I'm Muhammad Fajar</h1>
   <h3>Computer Science Student | Junior Developer</h3>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;junior+Developer;HyperText+Markup+Lumpia+%F0%9F%8C%AF" alt="Typing SVG" />
+  </a>
+</div> -->
+<div align="center">
+  <!-- Animasi GIF Header -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180" alt="Coding Cat">
+  
+  <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="wave"> I'm Muhammad Fajar</h1>
+  <h3>Computer Science Student | Junior Developer</h3>
+  
+  <!-- Animasi Teks (Typing SVG) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Junior+Developer;HyperText+Markup+Lumpia+%F0%9F%8C%AF" alt="Typing SVG" />
   </a>
 </div>
 
