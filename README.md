@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-  <a href="www.linkedin.com/in/muhammad-fajar-48a0b1311">
+  <a href="www.linkedin.com/in/muhammad-fajar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="email:muhfajarfajar914@gmail.com">
